@@ -1,0 +1,30 @@
+{
+  "name": "@jedmud/tui-metrics-element",
+  "version": "0.0.1",
+  "description": "Jedmud TUI metrics element module.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jedmud/tui-metrics-element.git"
+  },
+  "keywords": [
+    "jedmud",
+    "terminal",
+    "tui",
+    "ui"
+  ],
+  "author": "Tanel Tammik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jedmud/tui-metrics-element/issues"
+  },
+  "homepage": "https://github.com/jedmud/tui-metrics-element#readme",
+  "dependencies": {
+    "@jedmud/tui-elements": "^0.0.1",
+    "colors": "^1.4.0",
+    "deepmerge": "^4.2.2"
+  }
+}
