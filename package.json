@@ -1,6 +1,6 @@
 {
   "name": "@jedmud/tui-metrics-element",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Jedmud TUI metrics element module.",
   "main": "src/index.js",
   "scripts": {
@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/jedmud/tui-metrics-element#readme",
   "dependencies": {
-    "@jedmud/tui-elements": "^0.0.1",
+    "@jedmud/tui-elements": "0.x",
     "colors": "^1.4.0",
     "deepmerge": "^4.2.2"
   }
