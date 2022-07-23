@@ -29,10 +29,6 @@ module.exports = class extends Type {
         this.count = Object.keys(this.gauges).length
     }
 
-    ready() {
-        this.forceNext().write()
-    }
-
     set(stats) {
         this.stats = stats
 
